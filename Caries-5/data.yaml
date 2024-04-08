@@ -1,0 +1,12 @@
+names:
+- Caries
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: caries-1bt6k
+  url: https://universe.roboflow.com/caries-xvoxj/caries-1bt6k/dataset/5
+  version: 5
+  workspace: caries-xvoxj
+test: ../test/images
+train: Caries-5/train/images
+val: Caries-5/valid/images
